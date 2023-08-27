@@ -1,6 +1,6 @@
-Duh{
+{
     "ownerNumber": ["919131652091@s.whatsapp.net","919131652091@s.whatsapp.net"],
-    "ownerName": "आरजू-सोनवानी",
+    "ownerName": "आरजू-सोनवानी ARJU SONWANI",
     "instagram" : "https://instagram.com/gmx_grand_master_x?igshid=MzNlNGNkZWQ4Mg==",
     "gcwa" : "https://instabio.cc/Alphabot",
     "botName": "grandmaster-x",
@@ -21,7 +21,7 @@ Duh{
     "antiDelete": false,
     "autobio": false,
     "anticall": true,
-    "autorespond": false,
+    "autorespond": true,
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
